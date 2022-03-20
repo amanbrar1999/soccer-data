@@ -1,7 +1,7 @@
 import csv
 
-with open('pl-stats.csv', 'r') as pl_stats:
-    with open('pl-stats-formatted.csv', 'w') as pl_state_formatted:
+with open('pl-passing-stats.csv', 'r') as pl_stats:
+    with open('pl-passing-stats-formatted.csv', 'w') as pl_state_formatted:
         reader = csv.reader(pl_stats)
         writer = csv.writer(pl_state_formatted)
         new_columns = []
