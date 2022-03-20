@@ -1,0 +1,40 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,W,D,L,Performance CS,Performance CS%,Performance PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+1,Emil Audero,it ITA,GK,Sampdoria,25-061,1997,20,20,1755,19.5,37,1.90,97,62,62.9,5,4,11,3,15.0,1,1,0,0,0.0,Matches
+2,Vid Belec,si SVN,GK,Salernitana,31-287,1990,20,20,1800,20.0,45,2.25,119,78,64.7,3,2,15,1,5.0,4,3,0,1,0.0,Matches
+3,Etrit Berisha,al ALB,GK,Torino,33-010,1989,3,3,270,3.0,2,0.67,9,7,77.8,0,2,1,1,33.3,0,0,0,0,,Matches
+4,Andrea Consigli,it ITA,GK,Sassuolo,35-052,1987,29,29,2610,29.0,46,1.59,113,74,65.5,11,10,8,3,10.3,8,7,1,0,12.5,Matches
+5,Alessio Cragno,it ITA,GK,Cagliari,27-265,1994,27,27,2430,27.0,49,1.81,131,85,66.4,5,8,14,0,0.0,7,5,2,0,28.6,Matches
+6,Bartłomiej Drągowski,pl POL,GK,Fiorentina,24-213,1997,7,7,556,6.2,8,1.29,23,16,69.6,3,0,4,2,28.6,2,1,1,0,50.0,Matches
+7,Wladimiro Falcone,it ITA,GK,Sampdoria,26-342,1995,10,9,855,9.5,14,1.47,53,41,75.5,2,1,6,2,22.2,1,1,0,0,0.0,Matches
+8,Vincenzo Fiorillo,it ITA,GK,Salernitana,32-066,1990,2,2,180,2.0,5,2.50,8,3,37.5,0,0,2,0,0.0,0,0,0,0,,Matches
+9,Luca Gemello,it ITA,GK,Torino,21-260,2000,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+10,Samir Handanović,si SVN,GK,Inter,37-249,1984,29,29,2610,29.0,24,0.83,97,77,79.4,17,9,3,12,41.4,4,4,0,0,0.0,Matches
+11,Luca Lezzerini,it ITA,GK,Venezia,26-361,1995,6,6,495,5.5,9,1.64,39,30,76.9,2,1,3,0,0.0,0,0,0,0,,Matches
+12,Niki Mäenpää,fi FIN,GK,Venezia,37-056,1985,7,6,585,6.5,10,1.54,18,11,61.1,0,2,4,0,0.0,4,3,0,1,0.0,Matches
+13,Mike Maignan,fr FRA,GK,Milan,26-260,1995,24,24,2160,24.0,19,0.79,80,63,78.8,16,5,3,11,45.8,2,2,0,0,0.0,Matches
+14,Alex Meret,it ITA,GK,Napoli,24-363,1997,4,4,360,4.0,2,0.50,13,11,84.6,4,0,0,2,50.0,0,0,0,0,,Matches
+15,Vanja Milinković-Savić,rs SRB,GK,Torino,25-028,1997,25,25,2250,25.0,28,1.12,69,45,65.2,8,6,11,4,16.0,5,4,1,0,20.0,Matches
+16,Lorenzo Montipò,it ITA,GK,Hellas Verona,26-028,1996,26,26,2340,26.0,40,1.54,100,62,62.0,10,8,8,3,11.5,2,2,0,0,0.0,Matches
+17,Juan Musso,ar ARG,GK,Atalanta,27-318,1994,24,24,2122,23.6,27,1.15,80,53,66.3,13,6,5,7,29.2,1,0,0,1,,Matches
+18,David Ospina,co COL,GK,Napoli,33-201,1988,26,26,2340,26.0,20,0.77,87,69,78.2,15,6,5,11,42.3,1,1,0,0,0.0,Matches
+19,Daniele Padelli,it ITA,GK,Udinese,36-146,1985,2,2,180,2.0,8,4.00,11,3,27.3,0,0,2,0,0.0,0,0,0,0,,Matches
+20,Ivor Pandur,hr CRO,GK,Hellas Verona,21-360,2000,3,3,270,3.0,6,2.00,14,9,64.3,1,0,2,0,0.0,1,1,0,0,0.0,Matches
+21,Rui Patrício,pt POR,GK,Roma,34-033,1988,29,29,2610,29.0,35,1.21,107,75,70.1,14,6,9,11,37.9,4,3,1,0,25.0,Matches
+22,Gianluca Pegolo,it ITA,GK,Sassuolo,40-360,1981,1,1,90,1.0,3,3.00,5,2,40.0,0,0,1,0,0.0,0,0,0,0,,Matches
+23,Mattia Perin,it ITA,GK,Juventus,29-130,1992,3,3,270,3.0,4,1.33,8,4,50.0,2,0,1,1,33.3,0,0,0,0,,Matches
+24,Ivan Provedel,it ITA,GK,Spezia,28-003,1994,23,23,2070,23.0,35,1.52,112,84,75.0,7,4,12,5,21.7,10,7,1,2,12.5,Matches
+25,Boris Radunović,rs SRB,GK,Cagliari,25-298,1996,3,3,270,3.0,5,1.67,15,11,73.3,0,2,1,1,33.3,2,1,1,0,50.0,Matches
+26,Pepe Reina,es ESP,GK,Lazio,39-201,1982,15,15,1350,15.0,29,1.93,56,30,55.4,6,4,5,2,13.3,5,4,0,1,0.0,Matches
+27,Sergio Romero,ar ARG,GK,Venezia,35-026,1987,16,16,1440,16.0,33,2.06,99,74,72.7,3,4,9,3,18.8,6,6,0,0,0.0,Matches
+28,Francesco Rossi,it ITA,GK,Atalanta,30-327,1991,1,0,37,0.4,1,2.43,2,1,50.0,0,0,0,0,,0,0,0,0,,Matches
+29,Luigi Sepe,it ITA,GK,Salernitana,30-316,1991,6,6,540,6.0,13,2.17,32,21,65.6,0,5,1,0,0.0,2,2,0,0,0.0,Matches
+30,Marco Silvestri,it ITA,GK,Udinese,31-018,1991,27,27,2430,27.0,38,1.41,95,61,64.2,7,12,8,7,25.9,4,4,0,0,0.0,Matches
+31,Salvatore Sirigu,it ITA,GK,Genoa,35-067,1987,30,30,2700,30.0,47,1.57,140,97,68.6,2,16,12,9,30.0,4,3,1,0,25.0,Matches
+32,Łukasz Skorupski,pl POL,GK,Bologna,30-319,1991,28,28,2520,28.0,43,1.54,126,92,71.4,9,6,13,9,32.1,7,7,0,0,0.0,Matches
+33,Marco Sportiello,it ITA,GK,Atalanta,29-314,1992,4,4,360,4.0,3,0.75,9,8,88.9,0,3,1,2,50.0,2,2,0,0,0.0,Matches
+34,Thomas Strakosha,al ALB,GK,Lazio,27-001,1995,14,14,1260,14.0,13,0.93,46,33,73.9,8,3,3,6,42.9,1,1,0,0,0.0,Matches
+35,Wojciech Szczęsny,pl POL,GK,Juventus,31-336,1990,26,26,2340,26.0,22,0.85,78,57,73.1,14,8,4,11,42.3,4,1,3,0,75.0,Matches
+36,Ciprian Tătărușanu,ro ROU,GK,Milan,36-039,1986,6,6,540,6.0,10,1.67,21,14,61.9,4,1,1,1,16.7,3,2,1,0,33.3,Matches
+37,Pietro Terracciano,it ITA,GK,Fiorentina,32-012,1990,23,22,2052,22.8,30,1.32,70,44,60.0,11,5,6,5,22.7,3,2,1,0,33.3,Matches
+38,Guglielmo Vicario,it ITA,GK,Empoli,25-164,1996,29,29,2610,29.0,54,1.86,155,105,67.1,8,8,13,5,17.2,6,3,1,2,25.0,Matches
+39,Jeroen Zoet,nl NED,GK,Spezia,31-073,1991,7,7,630,7.0,19,2.71,40,22,55.0,1,1,5,0,0.0,2,1,1,0,50.0,Matches

@@ -1,0 +1,35 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,W,D,L,Performance CS,Performance CS%,Performance PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%,Matches
+1,Oliver Baumann,de GER,GK,Hoffenheim,31-291,1990,26,26,2340,26.0,37,1.42,114,79,68.4,12,5,9,7,26.9,3,1,1,1,50.0,Matches
+2,Fabian Bredlow,de GER,GK,Stuttgart,27-018,1995,4,4,360,4.0,7,1.75,24,17,70.8,0,2,2,0,0.0,0,0,0,0,,Matches
+3,Sascha Burchert,de GER,GK,Greuther Fürth,32-141,1989,13,13,1170,13.0,26,2.00,67,43,64.2,2,4,7,3,23.1,2,2,0,0,0.0,Matches
+4,Koen Casteels,be BEL,GK,Wolfsburg,29-268,1992,23,23,2070,23.0,31,1.35,85,57,67.1,9,4,10,8,34.8,6,3,2,1,40.0,Matches
+5,Michael Esser,de GER,GK,Bochum,34-118,1987,2,2,180,2.0,4,2.00,8,5,62.5,2,0,0,0,0.0,1,1,0,0,0.0,Matches
+6,Mark Flekken,nl NED,GK,Freiburg,28-280,1993,25,25,2250,25.0,22,0.88,103,83,79.6,12,8,5,9,36.0,1,1,0,0,0.0,Matches
+7,Marius Funk,de GER,GK,Greuther Fürth,26-078,1996,8,8,720,8.0,30,3.75,52,26,46.2,0,0,8,0,0.0,2,2,0,0,0.0,Matches
+8,Rafał Gikiewicz,pl POL,GK,Augsburg,34-145,1987,26,26,2340,26.0,44,1.69,120,77,65.0,6,8,12,7,26.9,2,2,0,0,0.0,Matches
+9,Lennart Grill,de GER,GK,Leverkusen,23-054,1999,1,1,90,1.0,2,2.00,6,5,66.7,1,0,0,0,0.0,0,0,0,0,,Matches
+10,Péter Gulácsi,hu HUN,GK,RB Leipzig,31-318,1990,25,25,2250,25.0,27,1.08,86,63,72.1,13,5,7,6,24.0,3,3,0,0,0.0,Matches
+11,Marwin Hitz,ch SUI,GK,Dortmund,34-183,1987,2,1,135,1.5,4,2.67,9,6,66.7,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+12,Timo Horn,de GER,GK,Köln,28-312,1993,13,13,1170,13.0,21,1.62,55,35,61.8,4,6,3,1,7.7,0,0,0,0,,Matches
+13,Lukáš Hrádecký,fi FIN,GK,Leverkusen,32-116,1989,25,25,2250,25.0,39,1.56,131,94,71.8,12,6,7,5,20.0,4,2,1,1,33.3,Matches
+14,Stefanos Kapino,gr GRE,GK,Arminia,28-002,1994,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+15,Gregor Kobel,ch SUI,GK,Dortmund,24-104,1997,25,25,2205,24.5,33,1.35,93,65,67.7,18,2,5,6,24.0,3,3,0,0,0.0,Matches
+16,Andreas Linde,se SWE,GK,Greuther Fürth,28-239,1993,6,6,540,6.0,14,2.33,35,20,60.0,1,2,3,1,16.7,0,0,0,0,,Matches
+17,Marcel Lotka,pl POL,GK,Hertha BSC,20-299,2001,3,3,270,3.0,9,3.00,13,6,46.2,0,0,3,0,0.0,2,2,0,0,0.0,Matches
+18,Andreas Luthe,de GER,GK,Union Berlin,35-010,1987,25,25,2250,25.0,36,1.44,99,67,65.7,9,7,9,6,24.0,2,2,0,0,0.0,Matches
+19,Josep Martinez,es ESP,GK,RB Leipzig,23-297,1998,1,1,90,1.0,3,3.00,4,1,25.0,0,0,1,0,0.0,0,0,0,0,,Matches
+20,Florian Müller,de GER,GK,Stuttgart,24-127,1997,23,23,2070,23.0,43,1.87,109,70,64.2,6,6,11,3,13.0,4,4,0,0,0.0,Matches
+21,Manuel Neuer,de GER,GK,Bayern Munich,35-358,1986,22,22,1980,22.0,20,0.91,73,53,72.6,18,2,2,8,36.4,0,0,0,0,,Matches
+22,Stefan Ortega,de GER,GK,Arminia,29-134,1992,26,26,2340,26.0,38,1.46,124,92,74.2,4,10,12,6,23.1,6,6,0,0,0.0,Matches
+23,Philipp Pentke,de GER,GK,Hoffenheim,36-323,1985,1,1,90,1.0,3,3.00,7,4,57.1,1,0,0,0,0.0,0,0,0,0,,Matches
+24,Pavao Pervan,at AUT,GK,Wolfsburg,34-127,1987,3,3,270,3.0,9,3.00,19,12,57.9,0,0,3,0,0.0,1,1,0,0,0.0,Matches
+25,Diant Ramaj,de GER,GK,Eint Frankfurt,20-182,2001,1,1,90,1.0,1,1.00,4,3,75.0,0,1,0,0,0.0,0,0,0,0,,Matches
+26,Manuel Riemann,de GER,GK,Bochum,33-192,1988,24,24,2160,24.0,33,1.37,118,86,72.0,7,5,12,6,25.0,2,0,2,0,100.0,Matches
+27,Frederik Rønnow,dk DEN,GK,Union Berlin,29-228,1992,2,2,180,2.0,2,1.00,8,6,75.0,1,1,0,0,0.0,0,0,0,0,,Matches
+28,Marvin Schwäbe,de GER,GK,Köln,26-329,1995,13,13,1170,13.0,18,1.38,57,39,68.4,6,3,4,3,23.1,0,0,0,0,,Matches
+29,Alexander Schwolow,de GER,GK,Hertha BSC,29-291,1992,24,24,2160,24.0,51,2.12,120,73,61.7,7,5,12,4,16.7,5,5,0,0,0.0,Matches
+30,Yann Sommer,ch SUI,GK,M'Gladbach,33-093,1988,26,26,2340,26.0,51,1.96,144,95,66.0,8,6,12,3,11.5,4,2,2,0,50.0,Matches
+31,Kevin Trapp,de GER,GK,Eint Frankfurt,31-255,1990,25,25,2250,25.0,37,1.48,127,93,74.0,10,6,9,3,12.0,4,4,0,0,0.0,Matches
+32,Sven Ulreich,de GER,GK,Bayern Munich,33-229,1988,5,5,450,5.0,8,1.60,16,10,56.3,2,1,2,1,20.0,1,1,0,0,0.0,Matches
+33,Benjamin Uphoff,de GER,GK,Freiburg,28-224,1993,2,2,180,2.0,7,3.50,12,5,41.7,0,1,1,0,0.0,0,0,0,0,,Matches
+34,Robin Zentner,de GER,GK,Mainz 05,27-143,1994,26,26,2340,26.0,30,1.15,89,62,68.5,11,4,11,9,34.6,3,2,1,0,33.3,Matches
