@@ -1,7 +1,7 @@
 import csv
 
-with open('l1-defensive-stats.csv', 'r') as league_stats:
-    with open('l1-defensive-stats-formatted.csv', 'w') as league_state_formatted:
+with open('ps-passing-stats.csv', 'r') as league_stats:
+    with open('ps-passing-stats-formatted.csv', 'w') as league_state_formatted:
         reader = csv.reader(league_stats)
         writer = csv.writer(league_state_formatted)
         new_columns = []
